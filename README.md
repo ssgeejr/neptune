@@ -8,9 +8,7 @@ It is about learning to move through it with more awareness, more control, and m
 
 **Neptune** brings together three SSI courses:
 
-**Nitrox**
-**Stress & Rescue**
-**Classified Diver**
+**Nitrox**, **Stress & Rescue**, and **Classified Diver**
 
 Course notes:
 
@@ -42,6 +40,8 @@ Stress & Rescue is where your awareness expands beyond yourself.
 
 You will learn how to recognize stress early, manage yourself first, assist another diver, and respond with control when a situation requires action.
 
+Training is built around three confined water sessions and three open water dives, so the skills can develop in a controlled setting before being applied in a real dive environment.
+
 The goal is simple:
 
 Stay calm.
@@ -55,6 +55,8 @@ Help keep yourself and others safe.
 Classified Diver is about building a dive around the diver, not forcing the diver to fit the dive.
 
 You will learn how communication, comfort, planning, equipment choices, and realistic support can help create a safer and more capable dive experience.
+
+Training confined water sessions give the diver, buddy, and instructor a controlled place to build communication, support techniques, entries, exits, and emergency response before moving into less controlled conditions.
 
 This is where preparation matters.
 
