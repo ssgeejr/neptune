@@ -1,41 +1,35 @@
 # Stress & Rescue
 
-Category: Instructor-facing teaching notes / Student-facing explanation
+## Why This Course Matters
 
-Status: Draft material requiring SSI standards verification
+Stress & Rescue is the course where you stop thinking only like a diver and start thinking like a teammate.
 
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+You learn to recognize stress early, control yourself first, help another diver, and respond with calm action when something is not going right.
 
-## Course Purpose
+This is not about becoming dramatic or heroic.
 
-Stress & Rescue teaches divers to recognize stress early, prevent small problems from becoming large problems, and respond with control when another diver needs help.
+It is about becoming useful.
 
-The goal is not drama.
+## Course Flow
 
-The goal is awareness, prevention, calm response, and useful action.
+Training is built around:
 
-## SSI Completion Structure
+* Three confined water sessions
+* Three open water dives
 
-SSI public materials identify the Diver Stress & Rescue program as including:
+The confined water sessions let you build the skills in a controlled setting.
 
-* Academic sessions and assessments
-* Final exam
-* At least three pool/confined water sessions
-* At least three open water training dives
-
-All specific skills, sequencing, performance requirements, ratios, and evaluation requirements must be verified in current SSI materials.
-
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+The open water dives move those skills into a real environment where awareness, positioning, communication, and calm execution matter.
 
 ---
 
-# Confined Water Class 1
+## Confined Water Class 1
 
-## Focus
+### Focus
 
-Self-control, stress recognition, and basic assist skills in a controlled setting.
+Self-control, stress recognition, and basic assist skills.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Self-assessment before entering the water
 * Recognizing stress signs in yourself and others
@@ -44,19 +38,19 @@ Self-control, stress recognition, and basic assist skills in a controlled settin
 * Assisting a tired or stressed diver at the surface
 * Basic buoyancy support for yourself and another diver
 
-## Short Description
+### Short Description
 
 This session builds the foundation: stay calm, control yourself first, and recognize stress before it becomes panic.
 
 ---
 
-# Confined Water Class 2
+## Confined Water Class 2
 
-## Focus
+### Focus
 
 Underwater problem prevention and controlled buddy assistance.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Approaching a stressed diver underwater
 * Establishing eye contact and simple communication
@@ -65,19 +59,19 @@ Underwater problem prevention and controlled buddy assistance.
 * Controlled ascent with a responsive diver
 * Managing your own position and safety while helping
 
-## Short Description
+### Short Description
 
-This session teaches the diver to help without becoming part of the problem. Control, distance, buoyancy, and communication matter.
+This session teaches you how to help without becoming part of the problem. Control, distance, buoyancy, and communication matter.
 
 ---
 
-# Confined Water Class 3
+## Confined Water Class 3
 
-## Focus
+### Focus
 
 Rescue sequence practice and scenario control.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Identifying an unresponsive diver
 * Bringing a diver to the surface
@@ -87,19 +81,19 @@ Rescue sequence practice and scenario control.
 * Equipment removal for towing or exit support
 * Exit assistance planning
 
-## Short Description
+### Short Description
 
-This session connects individual skills into a controlled rescue sequence. The emphasis is calm order: surface, buoyancy, help, breathing, exit.
+This session connects individual skills into a controlled rescue sequence. The order matters: surface, buoyancy, help, breathing, exit.
 
 ---
 
-# Open Water Class 1
+## Open Water Class 1
 
-## Focus
+### Focus
 
 Applying stress recognition and prevention in a real dive environment.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Site assessment and emergency planning
 * Buddy check with rescue awareness
@@ -108,52 +102,52 @@ Applying stress recognition and prevention in a real dive environment.
 * Controlled contact and communication
 * Debriefing stress signals after the dive
 
-## Short Description
+### Short Description
 
-This dive moves the awareness work into open water. The diver learns to read the site, the buddy, and themselves before a problem grows.
+This dive moves awareness work into open water. You learn to read the site, your buddy, and yourself before a problem grows.
 
 ---
 
-# Open Water Class 2
+## Open Water Class 2
 
-## Focus
+### Focus
 
 Controlled underwater assistance and ascent management.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Underwater approach to a stressed diver
 * Simple communication under load
 * Buoyancy and positioning while assisting
-* Air-sharing or breathing-gas problem response as required by SSI materials
+* Air-sharing or breathing-gas problem response
 * Controlled ascent with a responsive diver
 * Surface stabilization after ascent
 
-## Short Description
+### Short Description
 
-This dive reinforces calm, useful action underwater. The rescuer must stay controlled enough to actually help.
+This dive reinforces calm, useful action underwater. You have to stay controlled enough to actually help.
 
 ---
 
-# Open Water Class 3
+## Open Water Class 3
 
-## Focus
+### Focus
 
 Scenario management from recognition through exit.
 
-## Skills We'll Cover
+### Skills We'll Cover
 
 * Emergency assessment
-* Unresponsive diver response as required by SSI materials
+* Unresponsive diver response
 * Surface rescue sequence
-* Rescue breathing practice where required and appropriate
+* Rescue breathing practice where appropriate
 * Tow and equipment management
 * Exit coordination
 * Emergency handoff and debrief
 
-## Short Description
+### Short Description
 
-This dive pulls the pieces together. The diver practices seeing the problem, taking control, and moving through the rescue sequence without rushing or improvising.
+This dive pulls the pieces together. You practice seeing the problem, taking control, and moving through the rescue sequence without rushing or improvising.
 
 ## Instructor-Facing Notes
 
@@ -187,14 +181,3 @@ Reinforce:
 * Control yourself first.
 * Help early.
 * Keep the sequence small, clear, and repeatable.
-
-## Source Notes
-
-SSI Diver Stress & Rescue public course page:
-
-https://www.divessi.com/en/advanced-training/scuba-diving/stress-and-rescue
-
-SSI EMS Diver Stress & Rescue requirements page:
-
-https://training.divessi.com/us/course/scuba-training-standards-and-procedures/continuing-education-programs-1/open-water-specialties/diver-stress-rescue
-

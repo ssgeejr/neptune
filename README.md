@@ -1,20 +1,14 @@
 # Neptune
 
-**Neptune is the king of the sea.**
+**Nitrox, Stress & Rescue, and Classified Buddy**
 
-But this path is not about pretending to rule the ocean.
+This is a clean next step for an Advanced Open Water diver who wants more capability, better planning, and more confidence as a teammate.
 
-It is about learning to move through it with more awareness, more control, and more capability.
+The path is simple:
 
-**Neptune** brings together three SSI courses:
-
-**Nitrox**, **Stress & Rescue**, and **Classified Diver**
-
-Course notes:
-
-* [Nitrox](nitrox.md)
-* [Stress & Rescue](stressrescue.md)
-* [Classified Buddy](classifiedbuddy.md)
+* [Nitrox](nitrox.md) helps you understand the gas you are breathing and make better dive-planning decisions.
+* [Stress & Rescue](stressrescue.md) teaches you to recognize stress early, control yourself first, and help another diver with calm, useful action.
+* [Classified Buddy](classifiedbuddy.md) builds the ability to assist or lead divers who require additional buddy support.
 
 Together, these courses build a stronger, more thoughtful diver.
 
@@ -26,11 +20,11 @@ More confidence in the water.
 
 ## Nitrox
 
-Nitrox helps you understand the gas you are breathing and how it affects your dive plan.
+Nitrox helps you understand how breathing gas affects your dive plan.
 
-You will learn what nitrox is, why divers use it, how to analyze a cylinder, and how oxygen exposure fits into safe dive planning.
+You will learn what nitrox is, why divers use it, how oxygen exposure affects planning, and how to make more informed computer and gas choices.
 
-Used correctly, nitrox can support longer no-decompression limits, better repetitive dive planning, and more informed decisions underwater.
+For Nitrox 32, the course is online: complete the SSI digital learning, pass the final exam, and earn the certification.
 
 ---
 
@@ -50,18 +44,16 @@ Help keep yourself and others safe.
 
 ---
 
-## Classified Diver
+## Classified Buddy
 
-Classified Diver is about building a dive around the diver, not forcing the diver to fit the dive.
+Classified Buddy is about becoming the kind of teammate who can help make diving possible for someone who needs additional support.
 
-You will learn how communication, comfort, planning, equipment choices, and realistic support can help create a safer and more capable dive experience.
+You will learn how communication, comfort, planning, equipment choices, entries, exits, positioning, and realistic assistance can create a safer and more capable dive experience.
 
 Training confined water sessions give the diver, buddy, and instructor a controlled place to build communication, support techniques, entries, exits, and emergency response before moving into less controlled conditions.
 
 This is where preparation matters.
-
 This is where awareness matters.
-
 This is where capability matters.
 
 ---

@@ -1,16 +1,14 @@
 # Nitrox
 
-Category: Student-facing explanation / Instructor-facing teaching notes
+## Why This Course Matters
 
-Status: Draft material requiring SSI standards verification
+Nitrox is one of the most useful specialty courses a diver can add after Advanced Open Water.
 
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+It helps you understand what is in your cylinder, how that gas affects your dive plan, and why the right mix can give you more flexibility on certain dives.
 
-## Student-Facing Explanation
+This is not about being fancy. It is about being informed.
 
-Nitrox helps you understand the gas you are breathing and how that gas affects your dive plan.
-
-You will learn how to use enriched air, how oxygen exposure affects safe planning, and why nitrox can give divers more flexibility on some dives.
+You will learn how to use enriched air, understand oxygen exposure, respect maximum operating depth, and make better decisions with your dive computer.
 
 Used correctly, nitrox can support:
 
@@ -19,41 +17,36 @@ Used correctly, nitrox can support:
 * More informed computer and gas choices
 * Stronger awareness of oxygen limits
 
-Nitrox is not magic gas. It does not make a diver immune to poor planning, poor buoyancy, overexertion, depth mistakes, or bad judgment.
+Nitrox is still diving. It does not fix poor buoyancy, poor planning, overexertion, depth mistakes, or bad judgment.
 
 ## Key Course Note: Nitrox 32
 
-SSI now identifies Enriched Air Nitrox 32 as a fully digital certification path.
+Nitrox 32 is the cleanest add-on in this package.
+
+Complete the SSI digital learning. Pass the final exam. Earn the certification.
 
 For Nitrox 32:
 
-* Complete the SSI digital academic sections.
-* Pass the SSI final exam.
-* Certification can be issued without a classroom session, confined water session, open water dive, or practical analyzer session.
-
-Plain version:
-
-Complete the online learning. Pass the final exam. Get certified for Nitrox 32.
-
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+* 100 percent online
+* Digital academics
+* Final exam
+* Certification after successful completion
 
 ## Nitrox 32 vs. Nitrox 40
 
 ### Enriched Air Nitrox 32
 
-You will learn how to plan and dive with enriched air mixtures up to EAN32.
+You learn how to plan and dive with enriched air mixtures up to EAN32.
 
-SSI public material describes this as the fully digital option: academic sections and final exam online.
+This is the fully online option.
 
 ### Enriched Air Nitrox 40
 
 Nitrox 40 extends the training to enriched air mixtures up to 40 percent oxygen.
 
-This path includes practical application with an SSI Professional, including oxygen analyzer use, cylinder analysis, and gas verification.
+This path includes practical work with an SSI Professional, including oxygen analyzer use, cylinder analysis, and gas verification.
 
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
-
-## What Students Should Understand
+## What You Will Learn
 
 You will learn how to:
 
@@ -65,7 +58,7 @@ You will learn how to:
 * Read and understand cylinder markings
 * Make conservative gas-planning choices
 
-## Instructor-Facing Teaching Notes
+## Instructor-Facing Notes
 
 Teach:
 
@@ -89,18 +82,6 @@ Evaluate:
 
 Reinforce:
 
-* Analyze and verify gas when required for the certification path and dive operation.
 * Match the computer to the gas being breathed.
 * Stay inside training, certification, and site limits.
 * When uncertain, stop and verify.
-
-## Source Notes
-
-SSI public Nitrox update:
-
-https://www.divessi.com/en/blog/online-nitrox-certification-2702
-
-SSI Enriched Air Nitrox 40 public course page:
-
-https://www.divessi.com/en/advanced-training/scuba-diving/enriched-air-nitrox-40
-

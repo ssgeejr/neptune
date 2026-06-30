@@ -1,36 +1,33 @@
 # Classified Buddy
 
-Category: Instructor-facing teaching notes / Personal skill-development notes
+## Why This Course Matters
 
-Status: Draft material requiring SSI standards verification
+Classified Buddy training gives you the ability to assist or lead divers with conditions that require additional buddy assistance.
 
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+This is where your buddy skills become more intentional.
 
-## Purpose
+You learn how to support a diver whose dive may require a different communication plan, entry, exit, support position, or emergency response. You are not there to take over. You are there to make the dive work safely, calmly, and with respect for the diver's independence.
 
-Classified Buddy training is about building a dive around the diver.
-
-The goal is not to force every diver into the same pattern. The goal is to understand the diver's needs, plan realistic support, communicate clearly, and keep the team calm and controlled.
+You learn how to build the dive around the diver.
 
 Competence over bravado.
 
-## SSI Classified Diving Roles
+## What We Are Training For
 
-SSI public materials identify these roles:
+This course is about becoming the buddy who can stay useful when the dive needs more than normal buddy awareness.
 
-* Classified Diver
-* Classified Dive Buddy
-* Classified Dive Professional
-* Classified Diving Instructor
-* Classified Diving Instructor Trainer
+You are training to:
 
-SSI public materials also describe three Classified Diver levels that determine required support.
-
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
+* Communicate clearly before and during the dive
+* Assist without taking away the diver's independence
+* Lead when the diver needs direction
+* Support entries, exits, buoyancy, trim, and positioning
+* Respond calmly if the plan changes
+* End the dive early when communication, comfort, or control breaks down
 
 ## Three Practical Classification Types
 
-These are working definitions for class planning and buddy briefing. Verify terminology and final evaluation language against SSI materials.
+These are working definitions for class planning and buddy briefing.
 
 ### 1. Self Rescue
 
@@ -38,7 +35,7 @@ The diver can perform core self-rescue actions with little or no direct physical
 
 The buddy's role is mainly awareness, communication, confirmation, and backup.
 
-Teach / demonstrate / evaluate / reinforce:
+Buddy focus:
 
 * Clear pre-dive planning
 * Communication checks
@@ -52,7 +49,7 @@ The diver can participate in the rescue or problem-solving process but needs tra
 
 The buddy's role is active support, not takeover. The buddy helps the diver complete the action while preserving as much independence as possible.
 
-Teach / demonstrate / evaluate / reinforce:
+Buddy focus:
 
 * Where the diver needs assistance
 * What assistance looks like
@@ -66,9 +63,9 @@ The diver cannot reasonably perform self-rescue or assist in their own rescue fo
 
 The buddy team must plan around that reality before entering the water.
 
-The support requirement may involve multiple Classified Dive Buddies and/or a Classified Dive Professional depending on the diver's SSI classification level.
+The support plan must be clear before the dive begins. If the diver cannot assist in their own rescue, the team cannot be vague about roles, contact, communication, exit strategy, or abort criteria.
 
-Teach / demonstrate / evaluate / reinforce:
+Buddy focus:
 
 * Conservative dive planning
 * Explicit support roles
@@ -77,19 +74,9 @@ Teach / demonstrate / evaluate / reinforce:
 * Emergency response without delay or debate
 * Clear abort criteria
 
-## SSI Classified Diver Level Notes
-
-SSI public EMS materials state:
-
-* Level 1 divers must dive with at least one Classified Dive Buddy.
-* Level 2 divers must dive with at least two Classified Dive Buddies.
-* Level 3 divers must dive with at least two Classified Dive Buddies and one Classified Dive Professional.
-
-VERIFY AGAINST CURRENT SSI TRAINING STANDARDS / MYSSI MATERIALS.
-
 ## Blind-Diver Tactile Communication Protocol
 
-For tomorrow, define this as a blind-diver tactile communication protocol.
+Use this as a simple blind-diver tactile communication protocol.
 
 The key is keeping the language small, consistent, and repeatable so the buddy does not improvise underwater.
 
@@ -161,14 +148,3 @@ Reinforce:
 * Calm execution.
 * No improvising underwater.
 * The plan exists before the dive starts.
-
-## Source Notes
-
-SSI Classified Diving EMS page:
-
-https://training.divessi.com/course/scuba-training-standards-and-procedures-20241/classified-diving-programs/student-level-programs/classified-diving
-
-SSI Classified Diving terminology page:
-
-https://training.divessi.com/index.php?id=22811954
-
