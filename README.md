@@ -12,6 +12,12 @@ It is about learning to move through it with more awareness, more control, and m
 **Stress & Rescue**
 **Classified Diver**
 
+Course notes:
+
+* [Nitrox](nitrox.md)
+* [Stress & Rescue](stressrescue.md)
+* [Classified Buddy](classifiedbuddy.md)
+
 Together, these courses build a stronger, more thoughtful diver.
 
 More knowledge.
